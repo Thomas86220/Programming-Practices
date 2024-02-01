@@ -1,4 +1,4 @@
-# Programming-Practices
+# Programming-Practices (View in raw)
 • You should validate input before processing to prevent errors or hacks. By validating and processing input you can remove special charactors that would otherwise inject in to your code. Additionally it prevents objects of different types inserted into functions or conditional statments where they shouldn't be (provoking logical errors). 
 • a clear and uncluttered mainline this allows code to be easily read and debugged - also it looks nice (:
 • one logical task per subroutine this means that you can test the code as you go and when errors arrise you can more easily identify where the bug is
